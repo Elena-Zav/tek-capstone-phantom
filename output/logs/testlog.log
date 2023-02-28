@@ -1,0 +1,22 @@
+2023-02-22 23:26:34,456 - logger_File -INFO - User is on retail website
+2023-02-22 23:26:34,651 - logger_File -INFO - user clicked on Sign in option
+2023-02-22 23:26:35,296 - logger_File -INFO - user entered email and password
+2023-02-22 23:26:35,505 - logger_File -INFO - user clicked on login button
+2023-02-22 23:27:27,704 - logger_File -INFO - User is on retail website
+2023-02-22 23:27:27,930 - logger_File -INFO - user clicked on Sign in option
+2023-02-22 23:27:28,403 - logger_File -INFO - user entered email and password
+2023-02-22 23:27:28,548 - logger_File -INFO - user clicked on login button
+2023-02-22 23:29:16,661 - logger_File -INFO - User is on retail website
+2023-02-22 23:29:16,959 - logger_File -INFO - user clicked on Sign in option
+2023-02-22 23:29:17,445 - logger_File -INFO - user entered email and password
+2023-02-22 23:29:17,577 - logger_File -INFO - user clicked on login button
+2023-02-22 23:39:51,191 - logger_File -INFO - User is on retail website
+2023-02-22 23:39:51,420 - logger_File -INFO - user clicked on Sign in option
+2023-02-22 23:39:51,959 - logger_File -INFO - user entered email and password
+2023-02-22 23:39:52,111 - logger_File -INFO - user clicked on login button
+2023-02-22 23:39:52,350 - logger_File -INFO - user is logged in into Account
+2023-02-24 15:22:24,953 - logger_File -INFO - User is on retail website
+2023-02-24 15:22:25,188 - logger_File -INFO - user clicked on Sign in option
+2023-02-24 15:22:25,768 - logger_File -INFO - user entered email and password
+2023-02-24 15:22:25,999 - logger_File -INFO - user clicked on login button
+2023-02-24 15:22:26,243 - logger_File -INFO - user is logged in into Account
