@@ -7,7 +7,7 @@ Feature: Retail Account Page
     And User click on login button
     And User should be logged in into Account
 	
-	@LabSession
+	@Regression @Account
   Scenario: Verify User can update Profile Information
     When User click on Account option
     And User update Name 'El Zav' and Phone '1231234581'

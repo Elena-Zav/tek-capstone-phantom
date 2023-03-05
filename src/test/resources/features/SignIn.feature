@@ -1,6 +1,6 @@
 Feature: Sign In Feature
 
-	@test @Regression @SignIn
+	@Regression @SignIn
   Scenario: Verify user can sign in into Retail Application
     Given User is on retail website
     When User click on Sign in option

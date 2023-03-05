@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		// tags = "@CompleteTest", - all TCa will be ex-ted
-		tags = "@LabSession", 
+		tags = "@SignIn", 
 		features = ("classpath:features"), 
 		glue = "tek.sdet.framework", 
 		dryRun = false, 

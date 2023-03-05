@@ -209,3 +209,58 @@
 2023-03-02 22:22:47,857 - logger_File -INFO - User clicked on Update button
 2023-03-02 22:22:48,542 - logger_File -INFO - User profile has 'Personal Information Updated Successfully' message
 2023-03-02 22:22:53,978 - logger_File -INFO - User has updated Name and Email
+2023-03-03 15:04:46,661 - logger_File -INFO - User is on retail website
+2023-03-03 15:04:46,759 - logger_File -INFO - User is on retail website
+2023-03-03 15:04:46,977 - logger_File -INFO - User clicked on All section
+2023-03-03 15:04:47,285 - logger_File -INFO - TV & VideoThe items is present
+2023-03-03 15:04:47,393 - logger_File -INFO - Video GamesThe items is present
+2023-03-03 15:14:18,489 - logger_File -INFO - User is on retail website
+2023-03-03 15:14:18,780 - logger_File -INFO - User is on retail website
+2023-03-03 15:14:18,983 - logger_File -INFO - User clicked on All section
+2023-03-03 15:19:11,591 - logger_File -INFO - User is on retail website
+2023-03-03 15:19:11,679 - logger_File -INFO - User is on retail website
+2023-03-03 15:19:11,858 - logger_File -INFO - User clicked on All section
+2023-03-03 15:23:36,427 - logger_File -INFO - User is on retail website
+2023-03-03 15:23:36,527 - logger_File -INFO - User is on retail website
+2023-03-03 15:23:36,669 - logger_File -INFO - User clicked on All section
+2023-03-03 15:23:36,883 - logger_File -INFO - TV & VideoThe items is present
+2023-03-03 15:23:37,005 - logger_File -INFO - Video GamesThe items is present
+2023-03-03 15:45:02,903 - logger_File -INFO - User is on retail website
+2023-03-03 15:45:02,962 - logger_File -INFO - User is on retail website
+2023-03-03 15:45:03,115 - logger_File -INFO - User clicked on All section
+2023-03-03 15:45:03,338 - logger_File -INFO - TV & VideoThe items is present
+2023-03-03 15:45:03,429 - logger_File -INFO - Video GamesThe items is present
+2023-03-05 14:15:03,167 - logger_File -INFO - User is on retail website
+2023-03-05 14:15:03,327 - logger_File -INFO - User clicked on All section
+2023-03-05 14:15:03,610 - logger_File -INFO - TV & VideoThe items is present
+2023-03-05 14:15:03,717 - logger_File -INFO - Video GamesThe items is present
+2023-03-05 14:21:57,314 - logger_File -INFO - User is on retail website
+2023-03-05 14:21:57,494 - logger_File -INFO - User clicked on All section
+2023-03-05 14:24:43,437 - logger_File -INFO - User is on retail website
+2023-03-05 14:24:43,595 - logger_File -INFO - User clicked on All section
+2023-03-05 14:38:07,676 - logger_File -INFO - User is on retail website
+2023-03-05 14:38:07,892 - logger_File -INFO - User clicked on All section
+2023-03-05 14:42:21,675 - logger_File -INFO - User is on retail website
+2023-03-05 14:42:21,851 - logger_File -INFO - User clicked on All section
+2023-03-05 14:46:36,819 - logger_File -INFO - User is on retail website
+2023-03-05 14:46:37,063 - logger_File -INFO - User clicked on All section
+2023-03-05 15:14:37,173 - logger_File -INFO - User is on retail website
+2023-03-05 15:14:37,425 - logger_File -INFO - User clicked on All section
+2023-03-05 15:14:37,709 - logger_File -INFO - User clicked Electronics item on The Side Bar
+2023-03-05 15:14:37,835 - logger_File -INFO - TV & VideoThe items is present
+2023-03-05 15:14:37,928 - logger_File -INFO - Video GamesThe items is present
+2023-03-05 15:29:45,723 - logger_File -INFO - User is on retail website
+2023-03-05 15:29:45,926 - logger_File -INFO - User clicked on All section
+2023-03-05 15:29:46,128 - logger_File -INFO - User clicked Electronics item on The Side Bar
+2023-03-05 15:29:46,198 - logger_File -INFO - TV & VideoThe items is present
+2023-03-05 15:29:46,283 - logger_File -INFO - Video GamesThe items is present
+2023-03-05 15:32:23,061 - logger_File -INFO - User is on retail website
+2023-03-05 15:32:23,264 - logger_File -INFO - User clicked on All section
+2023-03-05 15:32:23,428 - logger_File -INFO - User clicked Electronics item on The Side Bar
+2023-03-05 15:32:23,504 - logger_File -INFO - TV & Videoitems is present
+2023-03-05 15:32:23,580 - logger_File -INFO - Video Gamesitems is present
+2023-03-05 16:59:42,955 - logger_File -INFO - User is on retail website
+2023-03-05 16:59:43,205 - logger_File -INFO - user clicked on Sign in option
+2023-03-05 16:59:43,780 - logger_File -INFO - user entered email and password
+2023-03-05 16:59:43,971 - logger_File -INFO - user clicked on login button
+2023-03-05 16:59:44,218 - logger_File -INFO - user is logged in into Account
