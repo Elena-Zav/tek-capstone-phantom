@@ -13,6 +13,9 @@ public class RetailAccountPage extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);	
 	}
 	
+	@FindBy(xpath = "//img[@alt='profile pic']")
+	public WebElement accountProfilePicture;
+	
 	@FindBy(id = "nameInput")
 	public WebElement nameInput;
 	
