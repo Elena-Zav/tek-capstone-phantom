@@ -694,3 +694,27 @@
 2023-03-06 13:21:11,371 [main] INFO logger_File - User clicked Automative item on The Side Bar
 2023-03-06 13:21:11,454 [main] INFO logger_File - Automative Parts & Accessories option presents in department
 2023-03-06 13:21:11,542 [main] INFO logger_File - MotorCycle & Powersports option presents in department
+2023-03-06 14:17:06,721 [main] INFO logger_File - User is on retail website
+2023-03-06 14:17:07,015 [main] INFO logger_File - User clicked on All section
+2023-03-06 14:17:07,319 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 14:17:07,457 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 14:17:07,560 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 14:17:12,236 [main] INFO logger_File - User is on retail website
+2023-03-06 14:17:12,450 [main] INFO logger_File - User clicked on All section
+2023-03-06 14:17:12,681 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 14:17:12,796 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 14:17:12,930 [main] INFO logger_File - Networking option presents in department
+2023-03-06 14:17:17,475 [main] INFO logger_File - User is on retail website
+2023-03-06 14:17:17,647 [main] INFO logger_File - User clicked on All section
+2023-03-06 14:17:17,942 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 14:17:18,069 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 14:17:18,235 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 14:17:22,579 [main] INFO logger_File - User is on retail website
+2023-03-06 14:17:22,800 [main] INFO logger_File - User clicked on All section
+2023-03-06 14:17:23,114 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 14:17:23,201 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 14:17:23,320 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 14:17:27,849 [main] INFO logger_File - User is on retail website
+2023-03-06 14:17:28,115 [main] INFO logger_File - User clicked on All section
+2023-03-06 14:17:28,474 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 14:17:28,558 [main] INFO logger_File - Automative Parts & Accessories option presents in department

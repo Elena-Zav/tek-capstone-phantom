@@ -52,7 +52,6 @@ public class HomeSteps extends CommonUtility {
 				logger.info(actualOptions.get(i).getText() + " option presents in department");
 			} else {
 				Assert.assertTrue(false);
-				logger.info(optionsDataTable.get(0).get(i) + " do NOT present");
 			}
 
 		}
