@@ -264,3 +264,45 @@
 2023-03-05 16:59:43,780 [main] INFO logger_File - user entered email and password
 2023-03-05 16:59:43,971 [main] INFO logger_File - user clicked on login button
 2023-03-05 16:59:44,218 [main] INFO logger_File - user is logged in into Account
+2023-03-05 20:14:04,975 [main] INFO logger_File - User is on retail website
+2023-03-05 20:14:05,270 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 20:14:05,918 [main] INFO logger_File - user entered email and password
+2023-03-05 20:14:06,089 [main] INFO logger_File - user clicked on login button
+2023-03-05 20:14:06,342 [main] INFO logger_File - user is logged in into Account
+2023-03-05 20:18:39,818 [main] INFO logger_File - User is on retail website
+2023-03-05 20:18:40,065 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 20:18:40,512 [main] INFO logger_File - user entered email and password
+2023-03-05 20:18:40,753 [main] INFO logger_File - user clicked on login button
+2023-03-05 20:18:41,020 [main] INFO logger_File - user is logged in into Account
+2023-03-05 20:45:45,233 [main] INFO logger_File - User is on retail website
+2023-03-05 20:45:45,445 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 20:45:45,988 [main] INFO logger_File - user entered email and password
+2023-03-05 20:45:46,142 [main] INFO logger_File - user clicked on login button
+2023-03-05 20:45:46,378 [main] INFO logger_File - user is logged in into Account
+2023-03-05 20:45:50,299 [main] INFO logger_File - User is on retail website
+2023-03-05 20:45:50,581 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 20:45:50,780 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-05 20:45:51,527 [main] INFO logger_File - user filled up the signUp information form
+2023-03-05 20:45:51,687 [main] INFO logger_File - user clicked on SignUp button
+2023-03-05 20:45:52,033 [main] INFO logger_File - user is logged into account page
+2023-03-05 21:00:36,498 [main] INFO logger_File - User is on retail website
+2023-03-05 21:00:36,744 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 21:00:37,292 [main] INFO logger_File - user entered email and password
+2023-03-05 21:00:37,472 [main] INFO logger_File - user clicked on login button
+2023-03-05 21:00:37,681 [main] INFO logger_File - user is logged in into Account
+2023-03-05 21:00:41,410 [main] INFO logger_File - User is on retail website
+2023-03-05 21:00:41,875 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 21:00:42,019 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-05 21:00:42,742 [main] INFO logger_File - user filled up the signUp information form
+2023-03-05 21:00:42,861 [main] INFO logger_File - user clicked on SignUp button
+2023-03-05 21:03:18,175 [main] INFO logger_File - User is on retail website
+2023-03-05 21:03:18,356 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 21:03:18,805 [main] INFO logger_File - user entered email and password
+2023-03-05 21:03:18,953 [main] INFO logger_File - user clicked on login button
+2023-03-05 21:03:19,212 [main] INFO logger_File - user is logged in into Account
+2023-03-05 21:03:22,895 [main] INFO logger_File - User is on retail website
+2023-03-05 21:03:23,296 [main] INFO logger_File - user clicked on Sign in option
+2023-03-05 21:03:23,456 [main] INFO logger_File - user clicked on Create New Account button
+2023-03-05 21:03:24,165 [main] INFO logger_File - user filled up the signUp information form
+2023-03-05 21:03:24,289 [main] INFO logger_File - user clicked on SignUp button
+2023-03-05 21:03:24,626 [main] INFO logger_File - user is logged into account page

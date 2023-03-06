@@ -15,7 +15,8 @@ import tek.sdet.framework.utilities.CommonUtility;
 
 public class HomeSteps extends CommonUtility{
 	
-	POMFactory factory = POMFactory.getInstance();
+//	POMFactory factory = POMFactory.getInstance();
+	POMFactory factory = new POMFactory();
 	
 	@When("User click on All section")
 	public void userClickOnAllSection() {
