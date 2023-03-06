@@ -42,6 +42,7 @@ public class RetailHomePage extends BaseSetup {
 	@FindBy(id = "hamburgerBtn")
 	public WebElement AllIcone;
 	
+	// this xpath work as for Departments SideBar items, as for Department Options (that appear after click on Department item) - dynamic content
 	@FindBy(xpath = "//div[@class = 'sidebar_content-item']/span")
 	public List <WebElement> sideBar;
 	

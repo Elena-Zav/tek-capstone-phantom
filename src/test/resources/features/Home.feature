@@ -3,7 +3,7 @@ Feature: Retail Home Page
   Background: 
     Given User is on retail website
 
-  @Regression @Home
+  @Regression @Home @sidebar
   Scenario Outline: Verify department sidebar options
     When User click on All section
     And User on <department>
@@ -16,4 +16,4 @@ Feature: Retail Home Page
       | 'Computers'   | Accessories                    | Networking               |
       | 'Smart Home'  | Smart Home Lightning           | Plugs and Outlets        |
       | 'Sports'      | Athletic Clothing              | Exercise & Fitness       |
-      | 'Automotive'  | Automative Parts & Accessories | MotorCycle & Powersports |
+      | 'Automative'  | Automative Parts & Accessories | MotorCycle & Powersports |

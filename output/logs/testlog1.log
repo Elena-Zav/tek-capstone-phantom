@@ -337,3 +337,360 @@
 2023-03-06 00:07:25,568 [main] INFO logger_File - user clicked on Create New Account button
 2023-03-06 00:07:26,516 [main] INFO logger_File - user filled up the signUp information form
 2023-03-06 00:07:26,691 [main] INFO logger_File - user clicked on SignUp button
+2023-03-06 10:10:04,669 [main] INFO logger_File - User is on retail website
+2023-03-06 10:10:04,949 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:10:05,238 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 10:10:05,317 [main] INFO logger_File - TV & Video item is present
+2023-03-06 10:10:05,410 [main] INFO logger_File - Video Games item is present
+2023-03-06 10:10:09,544 [main] INFO logger_File - User is on retail website
+2023-03-06 10:10:10,043 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:10:10,255 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 10:10:10,313 [main] INFO logger_File - Accessories item is present
+2023-03-06 10:10:10,380 [main] INFO logger_File - Networking item is present
+2023-03-06 10:10:14,227 [main] INFO logger_File - User is on retail website
+2023-03-06 10:10:14,701 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:10:14,986 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 10:10:15,063 [main] INFO logger_File - Smart Home Lightning item is present
+2023-03-06 10:10:15,173 [main] INFO logger_File - Plugs and Outlets item is present
+2023-03-06 10:10:19,388 [main] INFO logger_File - User is on retail website
+2023-03-06 10:10:19,602 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:10:19,893 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 10:10:19,948 [main] INFO logger_File - Athletic Clothing item is present
+2023-03-06 10:10:20,042 [main] INFO logger_File - Exercise & Fitness item is present
+2023-03-06 10:10:24,070 [main] INFO logger_File - User is on retail website
+2023-03-06 10:10:24,300 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:24:10,525 [main] INFO logger_File - User is on retail website
+2023-03-06 10:24:11,029 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:24:11,234 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 10:24:11,305 [main] INFO logger_File - TV & Video item is present
+2023-03-06 10:24:11,384 [main] INFO logger_File - Video Games item is present
+2023-03-06 10:24:15,552 [main] INFO logger_File - User is on retail website
+2023-03-06 10:24:15,704 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:24:15,926 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 10:24:15,989 [main] INFO logger_File - Accessories item is present
+2023-03-06 10:24:16,060 [main] INFO logger_File - Networking item is present
+2023-03-06 10:24:19,757 [main] INFO logger_File - User is on retail website
+2023-03-06 10:24:20,194 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:24:20,421 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 10:24:20,497 [main] INFO logger_File - Smart Home Lightning item is present
+2023-03-06 10:24:20,594 [main] INFO logger_File - Plugs and Outlets item is present
+2023-03-06 10:24:24,534 [main] INFO logger_File - User is on retail website
+2023-03-06 10:24:24,724 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:24:24,985 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 10:24:25,045 [main] INFO logger_File - Athletic Clothing item is present
+2023-03-06 10:24:25,115 [main] INFO logger_File - Exercise & Fitness item is present
+2023-03-06 10:24:28,846 [main] INFO logger_File - User is on retail website
+2023-03-06 10:24:29,203 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:39:20,262 [main] INFO logger_File - User is on retail website
+2023-03-06 10:39:20,537 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:39:25,221 [main] INFO logger_File - User is on retail website
+2023-03-06 10:39:25,568 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:39:29,901 [main] INFO logger_File - User is on retail website
+2023-03-06 10:39:30,120 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:39:34,624 [main] INFO logger_File - User is on retail website
+2023-03-06 10:39:34,826 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:39:39,278 [main] INFO logger_File - User is on retail website
+2023-03-06 10:39:39,438 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:12,110 [main] INFO logger_File - User is on retail website
+2023-03-06 10:43:12,341 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:12,561 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 10:43:12,653 [main] INFO logger_File - TV & Video item is present
+2023-03-06 10:43:12,769 [main] INFO logger_File - Video Games item is present
+2023-03-06 10:43:17,313 [main] INFO logger_File - User is on retail website
+2023-03-06 10:43:18,015 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:18,222 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 10:43:18,290 [main] INFO logger_File - Accessories item is present
+2023-03-06 10:43:18,368 [main] INFO logger_File - Networking item is present
+2023-03-06 10:43:22,370 [main] INFO logger_File - User is on retail website
+2023-03-06 10:43:22,750 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:22,974 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 10:43:23,044 [main] INFO logger_File - Smart Home Lightning item is present
+2023-03-06 10:43:23,123 [main] INFO logger_File - Plugs and Outlets item is present
+2023-03-06 10:43:26,920 [main] INFO logger_File - User is on retail website
+2023-03-06 10:43:27,360 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:27,654 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 10:43:27,721 [main] INFO logger_File - Athletic Clothing item is present
+2023-03-06 10:43:27,794 [main] INFO logger_File - Exercise & Fitness item is present
+2023-03-06 10:43:31,740 [main] INFO logger_File - User is on retail website
+2023-03-06 10:43:32,156 [main] INFO logger_File - User clicked on All section
+2023-03-06 10:43:32,397 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 10:43:32,461 [main] INFO logger_File - Automative Parts & Accessories item is present
+2023-03-06 10:43:32,574 [main] INFO logger_File - MotorCycle & Powersports item is present
+2023-03-06 11:03:06,924 [main] INFO logger_File - User is on retail website
+2023-03-06 11:03:07,473 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:03:07,695 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 11:03:07,766 [main] INFO logger_File - TV & Video item is present
+2023-03-06 11:03:07,843 [main] INFO logger_File - Video Games item is present
+2023-03-06 11:03:11,954 [main] INFO logger_File - User is on retail website
+2023-03-06 11:03:12,136 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:03:12,351 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 11:03:12,433 [main] INFO logger_File - Accessories item is present
+2023-03-06 11:03:12,532 [main] INFO logger_File - Networking item is present
+2023-03-06 11:03:16,574 [main] INFO logger_File - User is on retail website
+2023-03-06 11:03:16,886 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:03:17,185 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 11:03:17,269 [main] INFO logger_File - Smart Home Lightning item is present
+2023-03-06 11:03:17,348 [main] INFO logger_File - Plugs and Outlets item is present
+2023-03-06 11:03:21,299 [main] INFO logger_File - User is on retail website
+2023-03-06 11:03:21,689 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:03:21,954 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 11:03:22,015 [main] INFO logger_File - Athletic Clothing item is present
+2023-03-06 11:03:22,126 [main] INFO logger_File - Exercise & Fitness item is present
+2023-03-06 11:03:26,174 [main] INFO logger_File - User is on retail website
+2023-03-06 11:03:26,493 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:03:26,834 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 11:03:26,926 [main] INFO logger_File - Automative Parts & Accessories item is present
+2023-03-06 11:03:27,113 [main] INFO logger_File - MotorCycle & Powersports item is present
+2023-03-06 11:05:29,542 [main] INFO logger_File - User is on retail website
+2023-03-06 11:05:29,893 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:05:30,119 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 11:05:30,189 [main] INFO logger_File - TV & Video item is present
+2023-03-06 11:05:30,331 [main] INFO logger_File - Video Games item is present
+2023-03-06 11:05:34,128 [main] INFO logger_File - User is on retail website
+2023-03-06 11:05:34,513 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:05:34,750 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 11:05:34,822 [main] INFO logger_File - Accessories item is present
+2023-03-06 11:05:34,954 [main] INFO logger_File - Networking item is present
+2023-03-06 11:05:38,839 [main] INFO logger_File - User is on retail website
+2023-03-06 11:05:39,069 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:05:39,277 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 11:05:39,349 [main] INFO logger_File - Smart Home Lightning item is present
+2023-03-06 11:05:39,509 [main] INFO logger_File - Plugs and Outlets item is present
+2023-03-06 11:05:43,062 [main] INFO logger_File - User is on retail website
+2023-03-06 11:05:43,433 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:05:43,630 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 11:05:43,699 [main] INFO logger_File - Athletic Clothing item is present
+2023-03-06 11:05:43,788 [main] INFO logger_File - Exercise & Fitness item is present
+2023-03-06 11:05:47,530 [main] INFO logger_File - User is on retail website
+2023-03-06 11:05:47,963 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:05:48,209 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 11:05:48,267 [main] INFO logger_File - Automative Parts & Accessories item is present
+2023-03-06 11:05:48,357 [main] INFO logger_File - MotorCycle & Powersports item is present
+2023-03-06 11:43:32,051 [main] INFO logger_File - User is on retail website
+2023-03-06 11:43:32,233 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:43:32,408 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 11:43:32,478 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 11:43:36,928 [main] INFO logger_File - User is on retail website
+2023-03-06 11:43:37,386 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:43:37,589 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 11:43:37,644 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 11:43:42,038 [main] INFO logger_File - User is on retail website
+2023-03-06 11:43:42,199 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:43:42,423 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 11:43:42,471 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 11:43:47,130 [main] INFO logger_File - User is on retail website
+2023-03-06 11:43:47,458 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:43:47,692 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 11:43:47,753 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 11:43:51,826 [main] INFO logger_File - User is on retail website
+2023-03-06 11:43:52,270 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:43:52,527 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 11:43:52,570 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 11:58:19,804 [main] INFO logger_File - User is on retail website
+2023-03-06 11:58:20,011 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:58:20,220 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 11:58:20,301 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 11:58:20,423 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 11:58:26,250 [main] INFO logger_File - User is on retail website
+2023-03-06 11:58:26,514 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:58:26,873 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 11:58:26,950 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 11:58:27,072 [main] INFO logger_File - Networking option presents in department
+2023-03-06 11:58:30,990 [main] INFO logger_File - User is on retail website
+2023-03-06 11:58:31,450 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:58:31,629 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 11:58:31,745 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 11:58:31,832 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 11:58:35,651 [main] INFO logger_File - User is on retail website
+2023-03-06 11:58:36,099 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:58:36,298 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 11:58:36,355 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 11:58:36,446 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 11:58:40,259 [main] INFO logger_File - User is on retail website
+2023-03-06 11:58:40,399 [main] INFO logger_File - User clicked on All section
+2023-03-06 11:58:40,646 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 11:58:40,726 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 11:58:40,828 [main] INFO logger_File - MotorCycle & Powersports option presents in department
+2023-03-06 12:16:27,614 [main] INFO logger_File - User is on retail website
+2023-03-06 12:16:27,817 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:16:27,995 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 12:16:28,089 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 12:16:28,251 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 12:16:32,500 [main] INFO logger_File - User is on retail website
+2023-03-06 12:16:33,118 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:16:33,391 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 12:16:33,471 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 12:16:33,607 [main] INFO logger_File - Networking option presents in department
+2023-03-06 12:16:37,513 [main] INFO logger_File - User is on retail website
+2023-03-06 12:16:37,859 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:16:38,051 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 12:16:38,116 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 12:16:38,242 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 12:16:42,001 [main] INFO logger_File - User is on retail website
+2023-03-06 12:16:42,391 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:16:42,596 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 12:16:42,654 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 12:16:42,759 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 12:16:46,547 [main] INFO logger_File - User is on retail website
+2023-03-06 12:16:46,977 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:16:47,236 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 12:16:47,296 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 12:16:47,385 [main] INFO logger_File - MotorCycle & Powersports option presents in department
+2023-03-06 12:17:59,471 [main] INFO logger_File - User is on retail website
+2023-03-06 12:17:59,679 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:17:59,856 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 12:17:59,947 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 12:18:00,052 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 12:18:04,963 [main] INFO logger_File - User is on retail website
+2023-03-06 12:18:05,121 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:18:05,347 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 12:18:05,451 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 12:18:05,552 [main] INFO logger_File - Networking option presents in department
+2023-03-06 12:18:09,557 [main] INFO logger_File - User is on retail website
+2023-03-06 12:18:09,742 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:18:09,927 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 12:18:10,024 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 12:18:10,107 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 12:18:13,796 [main] INFO logger_File - User is on retail website
+2023-03-06 12:18:14,071 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:18:14,289 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 12:18:14,361 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 12:18:14,431 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 12:18:18,375 [main] INFO logger_File - User is on retail website
+2023-03-06 12:18:18,815 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:31:50,648 [main] INFO logger_File - User is on retail website
+2023-03-06 12:31:50,916 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:31:55,667 [main] INFO logger_File - User is on retail website
+2023-03-06 12:31:55,846 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:32:00,023 [main] INFO logger_File - User is on retail website
+2023-03-06 12:32:00,484 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:32:04,589 [main] INFO logger_File - User is on retail website
+2023-03-06 12:32:04,734 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:32:09,188 [main] INFO logger_File - User is on retail website
+2023-03-06 12:32:09,520 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:46:33,069 [main] INFO logger_File - User is on retail website
+2023-03-06 12:46:33,270 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:46:33,496 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 12:46:33,600 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 12:46:33,706 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 12:46:37,838 [main] INFO logger_File - User is on retail website
+2023-03-06 12:46:38,019 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:46:42,683 [main] INFO logger_File - User is on retail website
+2023-03-06 12:46:43,079 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:46:47,800 [main] INFO logger_File - User is on retail website
+2023-03-06 12:46:47,994 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:46:52,233 [main] INFO logger_File - User is on retail website
+2023-03-06 12:46:52,610 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:59:34,251 [main] INFO logger_File - User is on retail website
+2023-03-06 12:59:34,517 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:59:34,755 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 12:59:34,863 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 12:59:34,946 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 12:59:45,988 [main] INFO logger_File - User is on retail website
+2023-03-06 12:59:46,161 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:59:46,595 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 12:59:46,680 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 12:59:46,771 [main] INFO logger_File - Networking option presents in department
+2023-03-06 12:59:50,719 [main] INFO logger_File - User is on retail website
+2023-03-06 12:59:50,991 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:59:51,200 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 12:59:51,309 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 12:59:51,373 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 12:59:55,835 [main] INFO logger_File - User is on retail website
+2023-03-06 12:59:56,004 [main] INFO logger_File - User clicked on All section
+2023-03-06 12:59:56,256 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 12:59:56,353 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 12:59:56,417 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 13:00:00,447 [main] INFO logger_File - User is on retail website
+2023-03-06 13:00:00,851 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:00:01,145 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 13:00:01,233 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 13:00:01,321 [main] INFO logger_File - MotorCycle & Powersports option presents in department
+2023-03-06 13:03:03,196 [main] INFO logger_File - User is on retail website
+2023-03-06 13:03:03,455 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:03:03,683 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 13:03:03,806 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 13:03:03,959 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 13:03:08,033 [main] INFO logger_File - User is on retail website
+2023-03-06 13:03:08,509 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:03:08,708 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 13:03:08,795 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 13:03:08,875 [main] INFO logger_File - Networking option presents in department
+2023-03-06 13:03:12,653 [main] INFO logger_File - User is on retail website
+2023-03-06 13:03:12,923 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:03:13,154 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 13:03:13,238 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 13:03:13,323 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 13:03:17,476 [main] INFO logger_File - User is on retail website
+2023-03-06 13:03:17,638 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:03:17,908 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 13:03:17,994 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 13:03:18,065 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 13:03:21,843 [main] INFO logger_File - User is on retail website
+2023-03-06 13:03:22,260 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:03:22,464 [main] INFO logger_File - Autamative item do NOT present
+2023-03-06 13:09:46,204 [main] INFO logger_File - User is on retail website
+2023-03-06 13:09:46,412 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:09:46,574 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 13:09:46,678 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 13:09:46,763 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 13:09:50,932 [main] INFO logger_File - User is on retail website
+2023-03-06 13:09:51,110 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:09:51,361 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 13:09:51,437 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 13:09:55,899 [main] INFO logger_File - User is on retail website
+2023-03-06 13:09:56,102 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:09:56,325 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 13:09:56,405 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 13:09:56,479 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 13:10:00,718 [main] INFO logger_File - User is on retail website
+2023-03-06 13:10:00,856 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:10:01,107 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 13:10:05,163 [main] INFO logger_File - User is on retail website
+2023-03-06 13:10:05,608 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:14:16,807 [main] INFO logger_File - User is on retail website
+2023-03-06 13:14:17,050 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:14:17,262 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 13:14:17,372 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 13:14:17,473 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 13:14:21,482 [main] INFO logger_File - User is on retail website
+2023-03-06 13:14:21,800 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:14:21,963 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 13:14:22,058 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 13:14:22,171 [main] INFO logger_File - Networking option presents in department
+2023-03-06 13:14:25,967 [main] INFO logger_File - User is on retail website
+2023-03-06 13:14:26,408 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:14:26,640 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 13:14:26,752 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 13:14:26,815 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 13:14:31,250 [main] INFO logger_File - User is on retail website
+2023-03-06 13:14:31,429 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:14:31,673 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 13:14:31,777 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 13:14:36,159 [main] INFO logger_File - User is on retail website
+2023-03-06 13:14:36,323 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:20:51,763 [main] INFO logger_File - User is on retail website
+2023-03-06 13:20:51,996 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:20:52,192 [main] INFO logger_File - User clicked Electronics item on The Side Bar
+2023-03-06 13:20:52,301 [main] INFO logger_File - TV & Video option presents in department
+2023-03-06 13:20:52,399 [main] INFO logger_File - Video Games option presents in department
+2023-03-06 13:20:56,759 [main] INFO logger_File - User is on retail website
+2023-03-06 13:20:57,158 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:20:57,339 [main] INFO logger_File - User clicked Computers item on The Side Bar
+2023-03-06 13:20:57,425 [main] INFO logger_File - Accessories option presents in department
+2023-03-06 13:20:57,499 [main] INFO logger_File - Networking option presents in department
+2023-03-06 13:21:01,486 [main] INFO logger_File - User is on retail website
+2023-03-06 13:21:01,610 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:21:01,830 [main] INFO logger_File - User clicked Smart Home item on The Side Bar
+2023-03-06 13:21:01,916 [main] INFO logger_File - Smart Home Lightning option presents in department
+2023-03-06 13:21:02,008 [main] INFO logger_File - Plugs and Outlets option presents in department
+2023-03-06 13:21:06,344 [main] INFO logger_File - User is on retail website
+2023-03-06 13:21:06,526 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:21:06,750 [main] INFO logger_File - User clicked Sports item on The Side Bar
+2023-03-06 13:21:06,849 [main] INFO logger_File - Athletic Clothing option presents in department
+2023-03-06 13:21:06,918 [main] INFO logger_File - Exercise & Fitness option presents in department
+2023-03-06 13:21:10,786 [main] INFO logger_File - User is on retail website
+2023-03-06 13:21:11,069 [main] INFO logger_File - User clicked on All section
+2023-03-06 13:21:11,371 [main] INFO logger_File - User clicked Automative item on The Side Bar
+2023-03-06 13:21:11,454 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 13:21:11,542 [main] INFO logger_File - MotorCycle & Powersports option presents in department

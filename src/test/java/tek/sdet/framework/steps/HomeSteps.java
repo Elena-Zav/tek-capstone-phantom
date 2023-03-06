@@ -1,6 +1,5 @@
 package tek.sdet.framework.steps;
 
-
 import java.util.List;
 
 import org.junit.Assert;
@@ -13,46 +12,50 @@ import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
-public class HomeSteps extends CommonUtility{
-	
+public class HomeSteps extends CommonUtility {
+
 //	POMFactory factory = POMFactory.getInstance();
 	POMFactory factory = new POMFactory();
-	
+
 	@When("User click on All section")
 	public void userClickOnAllSection() {
 		click(factory.homePage().AllIcone);
 		logger.info("User clicked on All section");
 	}
-	
-    @And("User on {string}")
-    public void userOnDepartment(String department) {
-    	List<WebElement> departments = factory.homePage().sideBar;   	
-    	for (WebElement el : departments) {
-    		System.out.println(el.getText() + " WE ARE HERE!!!");
-    		String dept = el.getText();
-    		if (el.getText().equals(department)) {
-    			click(el);
-    			logger.info("User clicked " + dept + " item on The Side Bar");
-    			break;
-    		}
-    	}
-    }
-    
-    @Then("below options are present in department")
-    public void belowOptionsArePresentInDepartment(DataTable dataTable) {
-    	List<List<String>> departmentOptions = dataTable.asLists(String.class);
-    	System.out.println(departmentOptions);
-    	List<WebElement> departments = factory.homePage().sideBar;
-    	System.out.println(departmentOptions);
-    	
-    	for (int i=0; i<departmentOptions.get(0).size(); i++) {
-    		for (WebElement element : departments) {
-    			if (element.getText().equals(departmentOptions.get(0).get(i))) {
-    				Assert.assertTrue(element.isDisplayed());
-    				logger.info(element.getText() +" item is present");
-    			}
-        	}
-    	}
-    }		
-    	
+
+	@And("User on {string}")
+	public void userOnDepartment(String department) {
+		System.out.println(department + " item from Cucucmber");
+		List<WebElement> departments = factory.homePage().sideBar;
+		boolean eguality = false;
+		for (WebElement el : departments) {
+			String dept = el.getText();
+			System.out.println(dept + " actual item in SideBar");
+			if (el.getText().equals(department)) {
+				eguality = true;
+				click(el);
+				logger.info("User clicked " + dept + " item on The Side Bar");
+				break;
+			}
+		}
+		Assert.assertTrue(eguality);
+	}
+
+	@Then("below options are present in department")
+	public void belowOptionsArePresentInDepartment(DataTable dataTable) {
+		List<List<String>> optionsDataTable = dataTable.asLists(String.class);
+		List<WebElement> actualOptions = factory.homePage().sideBar;
+
+		for (int i = 0; i < optionsDataTable.get(0).size(); i++) {
+			if (actualOptions.get(i).getText().equals(optionsDataTable.get(0).get(i))) {
+				Assert.assertTrue(actualOptions.get(i).isDisplayed());
+				logger.info(actualOptions.get(i).getText() + " option presents in department");
+			} else {
+				Assert.assertTrue(false);
+				logger.info(optionsDataTable.get(0).get(i) + " do NOT present");
+			}
+
+		}
+
+	}
 }
