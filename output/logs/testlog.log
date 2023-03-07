@@ -805,3 +805,25 @@
 2023-03-06 23:09:28,873 - logger_File -INFO - User entered previous/new password and conformed password
 2023-03-06 23:09:29,021 - logger_File -INFO - User clicked on Change Password button
 2023-03-06 23:09:29,906 - logger_File -INFO - Password Updated Successfully message is displayed
+2023-03-07 10:31:47,093 - logger_File -INFO - User is on retail website
+2023-03-07 10:31:47,447 - logger_File -INFO - user clicked on Sign in option
+2023-03-07 10:31:48,191 - logger_File -INFO - user entered email and password
+2023-03-07 10:31:48,353 - logger_File -INFO - user clicked on login button
+2023-03-07 10:31:48,598 - logger_File -INFO - user is logged in into Account
+2023-03-07 10:31:48,902 - logger_File -INFO - User clicked on Account
+2023-03-07 10:34:09,895 - logger_File -INFO - User is on retail website
+2023-03-07 10:34:10,440 - logger_File -INFO - user clicked on Sign in option
+2023-03-07 10:34:10,957 - logger_File -INFO - user entered email and password
+2023-03-07 10:34:11,093 - logger_File -INFO - user clicked on login button
+2023-03-07 10:34:11,454 - logger_File -INFO - user is logged in into Account
+2023-03-07 10:34:11,673 - logger_File -INFO - User clicked on Account
+2023-03-07 10:41:11,764 - logger_File -INFO - User is on retail website
+2023-03-07 10:41:12,233 - logger_File -INFO - user clicked on Sign in option
+2023-03-07 10:41:12,777 - logger_File -INFO - user entered email and password
+2023-03-07 10:41:12,931 - logger_File -INFO - user clicked on login button
+2023-03-07 10:41:13,276 - logger_File -INFO - user is logged in into Account
+2023-03-07 10:41:13,607 - logger_File -INFO - User clicked on Account
+2023-03-07 10:41:13,790 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-07 10:41:14,533 - logger_File -INFO - User filled debit or credit card information
+2023-03-07 10:41:14,652 - logger_File -INFO - User clicked on Add your card button
+2023-03-07 10:41:15,429 - logger_File -INFO - The message 'Payment Method added successfully’ is displayed
