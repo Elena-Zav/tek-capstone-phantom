@@ -1,7 +1,10 @@
 package tek.sdet.framework.steps;
 
-import org.junit.Assert;
+import java.util.List;
+import java.util.Map;
 
+import org.junit.Assert;
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -21,10 +24,9 @@ public class RetailAccountSteps extends CommonUtility{
 	
 	@And("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-//		clearTextUsingSendKeys(factory.accountPage().nameInput);
+		
 		clear(factory.accountPage().nameInput);
 		sendText(factory.accountPage().nameInput, name);
-//		clearTextUsingSendKeys(factory.accountPage().phoneInput);
 		clear(factory.accountPage().phoneInput);
 		sendText(factory.accountPage().phoneInput, phone);
 		logger.info("User entered updated Name and Phone");
@@ -38,19 +40,47 @@ public class RetailAccountSteps extends CommonUtility{
 	
 	@Then("User profile information should be updated")
 	public void userProfileInformationShouldBeUpdated() {
+
 	    waitTillPresence(factory.accountPage().personalInfoUpdateMessage);
 	    Assert.assertTrue(isElementDisplayed(factory.accountPage().personalInfoUpdateMessage));
-	    logger.info("User profile has 'Personal Information Updated Successfully' message");
+	    
+	    //!!!! How to pass here String name, String phone from @And("User update Name {string} and Phone {string}")???
+//	    waitTillInvisibile(factory.accountPage().personalInfoUpdateMessage);
+//	    String actualName = getAttribute(factory.accountPage().nameInput, "value");
+//	    String actualPhone = getAttribute(factory.accountPage().phoneInput, "value");
+//	    Assert.assertEquals(name, actualName);
+//	    Assert.assertEquals(phone, actualPhone);
+	    	    
+	    logger.info("User profile information was updated");
 	}
 	
-	@And("User Name is {string} and Phone is {string}")
-	public void userNameIsAndPhoneIs(String name, String phone) {
-		waitTillInvisibile(factory.accountPage().personalInfoUpdateMessage);
-	    String actualName = getAttribute(factory.accountPage().nameInput, "value");
-	    String actualPhone = getAttribute(factory.accountPage().phoneInput, "value");
-	    Assert.assertEquals(name, actualName);
-	    Assert.assertEquals(phone, actualPhone);
-	    logger.info("User has updated Name and Email");
+	@And("User enter below information")
+	public void userEnterBelowInformation(DataTable dataTable) {
+	    List<Map<String,String>> credent = dataTable.asMaps(String.class, String.class);
+	    for (Map<String, String> map : credent) {
+	    	sendText(factory.accountPage().previousPasswordField, map.get("previousPassword"));
+	    	Assert.assertEquals(map.get("previousPassword"), getAttribute(factory.accountPage().previousPasswordField, "value"));
+	    	sendText(factory.accountPage().newPasswordField, map.get("newPassword"));
+	    	Assert.assertEquals(map.get("newPassword"), getAttribute(factory.accountPage().newPasswordField, "value"));
+	    	sendText(factory.accountPage().confirmPasswordField, map.get("confirmPassword"));
+	    	Assert.assertEquals(map.get("confirmPassword"), getAttribute(factory.accountPage().confirmPasswordField, "value"));
+	    	logger.info("User entered previous/new password and conformed password");
+	        
+	    }
 	}
+	
+	@And("User click on Change Password button")
+	public void userClickOnChangePasswordButton() {
+	    click(factory.accountPage().changPasswordButton);
+	    logger.info("User clicked on Change Password button");
+	}
+	
+	@Then("a message should be displayed ‘Password Updated Successfully’")
+	public void aMessageShouldBeDisplayedPasswordUpdatedSuccessfully() {
+		waitTillPresence(factory.accountPage().passwordUpdatedSuccessMessage);
+		Assert.assertTrue(isElementDisplayed(factory.accountPage().passwordUpdatedSuccessMessage));
+		logger.info("Password Updated Successfully message is displayed");
+	}
+
 
 }

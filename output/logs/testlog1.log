@@ -718,3 +718,90 @@
 2023-03-06 14:17:28,115 [main] INFO logger_File - User clicked on All section
 2023-03-06 14:17:28,474 [main] INFO logger_File - User clicked Automative item on The Side Bar
 2023-03-06 14:17:28,558 [main] INFO logger_File - Automative Parts & Accessories option presents in department
+2023-03-06 21:09:07,849 [main] INFO logger_File - User is on retail website
+2023-03-06 21:09:08,080 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:09:08,619 [main] INFO logger_File - user entered email and password
+2023-03-06 21:09:08,807 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:09:09,022 [main] INFO logger_File - user is logged in into Account
+2023-03-06 21:09:09,350 [main] INFO logger_File - User clicked on Account
+2023-03-06 21:09:10,095 [main] INFO logger_File - User entered previous/new password and conformed password
+2023-03-06 21:09:10,223 [main] INFO logger_File - User clicked on Change Password button
+2023-03-06 21:15:22,357 [main] INFO logger_File - User is on retail website
+2023-03-06 21:15:22,617 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:15:23,195 [main] INFO logger_File - user entered email and password
+2023-03-06 21:15:23,364 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:15:23,638 [main] INFO logger_File - user is logged in into Account
+2023-03-06 21:15:23,965 [main] INFO logger_File - User clicked on Account
+2023-03-06 21:15:24,588 [main] INFO logger_File - User entered previous/new password and conformed password
+2023-03-06 21:15:24,688 [main] INFO logger_File - User clicked on Change Password button
+2023-03-06 21:34:35,819 [main] INFO logger_File - User is on retail website
+2023-03-06 21:34:36,181 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:34:36,806 [main] INFO logger_File - user entered email and password
+2023-03-06 21:34:36,958 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:35:01,421 [main] INFO logger_File - User is on retail website
+2023-03-06 21:35:01,574 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:35:02,041 [main] INFO logger_File - user entered email and password
+2023-03-06 21:35:02,156 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:37:13,286 [main] INFO logger_File - User is on retail website
+2023-03-06 21:37:13,555 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:37:14,006 [main] INFO logger_File - user entered email and password
+2023-03-06 21:37:14,146 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:37:14,388 [main] INFO logger_File - user is logged in into Account
+2023-03-06 21:37:14,705 [main] INFO logger_File - User clicked on Account
+2023-03-06 21:37:15,322 [main] INFO logger_File - User entered updated Name and Phone
+2023-03-06 21:37:15,472 [main] INFO logger_File - User clicked on Update button
+2023-03-06 21:37:19,796 [main] INFO logger_File - User is on retail website
+2023-03-06 21:37:20,040 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 21:37:20,519 [main] INFO logger_File - user entered email and password
+2023-03-06 21:37:20,651 [main] INFO logger_File - user clicked on login button
+2023-03-06 21:37:20,869 [main] INFO logger_File - user is logged in into Account
+2023-03-06 21:37:21,110 [main] INFO logger_File - User clicked on Account
+2023-03-06 21:37:21,728 [main] INFO logger_File - User entered previous/new password and conformed password
+2023-03-06 21:37:21,872 [main] INFO logger_File - User clicked on Change Password button
+2023-03-06 21:37:22,901 [main] INFO logger_File - Password Updated Successfully message is displayed
+2023-03-06 22:31:26,036 [main] INFO logger_File - User is on retail website
+2023-03-06 22:31:26,291 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 22:31:26,943 [main] INFO logger_File - user entered email and password
+2023-03-06 22:31:27,104 [main] INFO logger_File - user clicked on login button
+2023-03-06 22:33:36,392 [main] INFO logger_File - User is on retail website
+2023-03-06 22:33:36,623 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 22:33:37,071 [main] INFO logger_File - user entered email and password
+2023-03-06 22:33:37,193 [main] INFO logger_File - user clicked on login button
+2023-03-06 22:33:37,437 [main] INFO logger_File - user is logged in into Account
+2023-03-06 22:33:37,740 [main] INFO logger_File - User clicked on Account
+2023-03-06 22:33:38,365 [main] INFO logger_File - User entered updated Name and Phone
+2023-03-06 22:33:38,516 [main] INFO logger_File - User clicked on Update button
+2023-03-06 23:01:34,593 [main] INFO logger_File - User is on retail website
+2023-03-06 23:01:34,814 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 23:01:35,379 [main] INFO logger_File - user entered email and password
+2023-03-06 23:01:35,522 [main] INFO logger_File - user clicked on login button
+2023-03-06 23:01:35,776 [main] INFO logger_File - user is logged in into Account
+2023-03-06 23:01:36,091 [main] INFO logger_File - User clicked on Account
+2023-03-06 23:01:36,691 [main] INFO logger_File - User entered updated Name and Phone
+2023-03-06 23:02:01,744 [main] INFO logger_File - User is on retail website
+2023-03-06 23:02:02,162 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 23:02:02,558 [main] INFO logger_File - user entered email and password
+2023-03-06 23:02:02,666 [main] INFO logger_File - user clicked on login button
+2023-03-06 23:02:02,928 [main] INFO logger_File - user is logged in into Account
+2023-03-06 23:02:03,177 [main] INFO logger_File - User clicked on Account
+2023-03-06 23:02:03,782 [main] INFO logger_File - User entered previous/new password and conformed password
+2023-03-06 23:02:03,881 [main] INFO logger_File - User clicked on Change Password button
+2023-03-06 23:02:05,009 [main] INFO logger_File - Password Updated Successfully message is displayed
+2023-03-06 23:09:19,433 [main] INFO logger_File - User is on retail website
+2023-03-06 23:09:19,693 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 23:09:20,306 [main] INFO logger_File - user entered email and password
+2023-03-06 23:09:20,490 [main] INFO logger_File - user clicked on login button
+2023-03-06 23:09:20,740 [main] INFO logger_File - user is logged in into Account
+2023-03-06 23:09:21,097 [main] INFO logger_File - User clicked on Account
+2023-03-06 23:09:21,671 [main] INFO logger_File - User entered updated Name and Phone
+2023-03-06 23:09:21,820 [main] INFO logger_File - User clicked on Update button
+2023-03-06 23:09:22,488 [main] INFO logger_File - User profile information was updated
+2023-03-06 23:09:26,986 [main] INFO logger_File - User is on retail website
+2023-03-06 23:09:27,177 [main] INFO logger_File - user clicked on Sign in option
+2023-03-06 23:09:27,635 [main] INFO logger_File - user entered email and password
+2023-03-06 23:09:27,760 [main] INFO logger_File - user clicked on login button
+2023-03-06 23:09:27,988 [main] INFO logger_File - user is logged in into Account
+2023-03-06 23:09:28,256 [main] INFO logger_File - User clicked on Account
+2023-03-06 23:09:28,873 [main] INFO logger_File - User entered previous/new password and conformed password
+2023-03-06 23:09:29,021 [main] INFO logger_File - User clicked on Change Password button
+2023-03-06 23:09:29,906 [main] INFO logger_File - Password Updated Successfully message is displayed

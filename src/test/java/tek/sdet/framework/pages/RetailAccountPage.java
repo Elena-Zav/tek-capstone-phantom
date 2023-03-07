@@ -27,5 +27,20 @@ public class RetailAccountPage extends BaseSetup {
 	
 	@FindBy(xpath = "//div[text()='Personal Information Updated Successfully']")
 	public WebElement personalInfoUpdateMessage;
+	
+	@FindBy(id="previousPasswordInput")
+	public WebElement previousPasswordField;
+	
+	@FindBy(id="newPasswordInput")
+	public WebElement newPasswordField;
+	
+	@FindBy(id="confirmPasswordInput")
+	public WebElement confirmPasswordField;
+	
+	@FindBy(id="credentialsSubmitBtn")
+	public WebElement changPasswordButton;
+	
+	@FindBy(xpath = "//div[text()='Password Updated Successfully']")
+	public WebElement passwordUpdatedSuccessMessage;
 
 }

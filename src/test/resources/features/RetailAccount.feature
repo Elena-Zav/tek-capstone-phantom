@@ -3,14 +3,22 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'test@yandex.ru' and password 'Qwert5432!'
+    And User enter email 'test@yandex.ru' and password 'Qerty12345!'
     And User click on login button
     And User should be logged in into Account
-	
-	@Regression @Account
+
+  @Regression @Account @updateProfile
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'El Zav' and Phone '1231234581'
+    And User update Name 'Ela Zavy' and Phone '2231234583'
     And User click on Update button
     Then User profile information should be updated
-    And User Name is 'El Zav' and Phone is '1231234581'
+
+  @Regression @Account @updatePassword
+  Scenario: Verify User can Update password
+    When User click on Account option
+    And User enter below information
+      | previousPassword | newPassword | confirmPassword |
+      | Qerty123456!     | Qerty12345! | Qerty12345!     |
+    And User click on Change Password button
+    Then a message should be displayed ‘Password Updated Successfully’

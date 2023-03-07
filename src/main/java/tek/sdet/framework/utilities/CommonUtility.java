@@ -89,6 +89,11 @@ public class CommonUtility extends BaseSetup {
 		executor.executeScript("arguments[0].value='" + value + "';", ele);
 	}
 	
+	public void clearTextUsingJSExecutor(WebElement element) {
+        JavascriptExecutor js = (JavascriptExecutor) getDriver();
+        js.executeScript("arguments[0].value=''", element);
+    }
+	
 	public void clear(WebElement ele) {
 		waitTillPresence(ele).clear();
 	}
