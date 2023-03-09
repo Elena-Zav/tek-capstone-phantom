@@ -23,12 +23,22 @@ Feature: Retail Account Page
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
 
-  @Regression @Account @addPayment
+  @Regression @Account @payment @addPayment
   Scenario: Verify User can add a payment method
     When User click on Account option
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard   | expirationMonth | expirationYear | securityCode |
-      | 1111222233334455 | Elena Zavila |               3 |           2025 |          888 |
-    And User click on Add your card button
+      | 1111222233330000 | Elena Zavila |               3 |           2026 |          888 |
+    And User click on 'Add Your card' button
     Then a message should be displayed ‘Payment Method added successfully’
+
+  @Regression @Account @payment @editCard
+  Scenario: Verify User can edit Debit or Credit card
+    When User click on Account option
+    And User click on Edit option of card section
+    And User edit information with below data
+      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
+      | 1111222233339999 | An Ni      |               5 |           2028 |          123 |
+    And User click on 'Update Your Card' button
+    Then a message should be displayed ‘Payment Method updated Successfully‘

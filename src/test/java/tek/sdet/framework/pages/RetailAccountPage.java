@@ -61,9 +61,18 @@ public class RetailAccountPage extends BaseSetup {
 	public WebElement securityCodeField;
 
 	@FindBy(id = "paymentSubmitBtn")
-	public WebElement addYourCardBotton;
+	public WebElement paymentButton;
 
 	@FindBy(xpath = "//div[text()='Payment Method added sucessfully']")
-	public WebElement paymenMethodUpdatedSuccessfully;
+	public WebElement paymentMethodAddedSuccessfully;
+
+	@FindBy(xpath = "//div[@class='account__payments-wrapper']/div[1]")
+	public WebElement cardsAndAccountsItemOne;
+
+	@FindBy(xpath = "//div[@class='account__payment-detail']//button[text()='Edit']")
+	public WebElement editPayment;
+
+	@FindBy(xpath = "//div[text()='Payment Method updated Successfully']")
+	public WebElement paymentMethodUpdatedSuccessfully;
 
 }

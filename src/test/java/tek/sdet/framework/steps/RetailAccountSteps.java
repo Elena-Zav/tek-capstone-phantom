@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
+
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
@@ -102,18 +104,56 @@ public class RetailAccountSteps extends CommonUtility {
 		sendText(factory.accountPage().securityCodeField, cardInfo.get(0).get("securityCode"));
 		logger.info("User filled debit or credit card information");
 	}
-
-	@And("User click on Add your card button")
-	public void userClickOnAddYourCardButton() {
-		click(factory.accountPage().addYourCardBotton);
-		logger.info("User clicked on Add your card button");
-	}
+//I have this method below as "user click on {string} button"
+//	@And("User click on Add your card button")
+//	public void userClickOnAddYourCardButton() {
+//		click(factory.accountPage().paymentButton);
+//		logger.info("User clicked on Add your card button");
+//	}
 
 	@Then("a message should be displayed ‘Payment Method added successfully’")
 	public void aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully() {
-		waitTillPresence(factory.accountPage().paymenMethodUpdatedSuccessfully);
-		Assert.assertTrue(isElementDisplayed(factory.accountPage().paymenMethodUpdatedSuccessfully));
+		String expectedMessage = "Payment Method added sucessfully";
+		waitTillPresence(factory.accountPage().paymentMethodAddedSuccessfully);
+		Assert.assertEquals(expectedMessage, getText(factory.accountPage().paymentMethodAddedSuccessfully));
 		logger.info("The message 'Payment Method added successfully' is displayed");
+	}
+
+	@And("User click on Edit option of card section")
+	public void userClickOnEditOptionOfCardSection() {
+		click(factory.accountPage().cardsAndAccountsItemOne);
+		click(factory.accountPage().editPayment);
+		logger.info("User clicked on Edit option of card section");
+	}
+
+	@And("User edit information with below data")
+	public void userEditInformationWithBelowData(DataTable dataTable) {
+		List<Map<String, String>> cardInfo = dataTable.asMaps(String.class, String.class);
+		clear(factory.accountPage().cardNumberField);
+		sendText(factory.accountPage().cardNumberField, cardInfo.get(0).get("cardNumber"));
+		clear(factory.accountPage().nameOnCardField);
+		sendText(factory.accountPage().nameOnCardField, cardInfo.get(0).get("nameOnCard"));
+		selectByVisibleText(factory.accountPage().expirationMonth, cardInfo.get(0).get("expirationMonth"));
+		selectByVisibleText(factory.accountPage().expirationYear, cardInfo.get(0).get("expirationYear"));
+		clear(factory.accountPage().securityCodeField);
+		sendText(factory.accountPage().securityCodeField, cardInfo.get(0).get("securityCode"));
+		logger.info("user edit information with new data");
+	}
+
+	@And("User click on {string} button")
+	public void userClickOnButton(String buttonMessage) {
+		Assert.assertEquals(buttonMessage, getText(factory.accountPage().paymentButton));
+		click(factory.accountPage().paymentButton);
+		logger.info("user clicked on " + buttonMessage + " button");
+	}
+
+	@Then("a message should be displayed ‘Payment Method updated Successfully‘")
+	public void aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully() {
+		String expectedMessage = "Payment Method updated Successfully";
+		waitTillPresence(factory.accountPage().paymentMethodUpdatedSuccessfully);
+		Assert.assertEquals(expectedMessage, getText(factory.accountPage().paymentMethodUpdatedSuccessfully));
+		logger.info("The message 'Payment Method added successfully' is displayed");
+
 	}
 
 }
