@@ -1,5 +1,7 @@
 package tek.sdet.framework.pages;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -69,10 +71,25 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath = "//div[@class='account__payments-wrapper']/div[1]")
 	public WebElement cardsAndAccountsItemOne;
 
+	@FindBy(xpath = "//div[@class='account__payment-selected account__payment-item']")
+	public WebElement cardsAndAccountSelectedItem;
+
+	@FindBy(xpath = "//div[@class='account__payment-selected account__payment-item']//p[@class='account__payment__sub-text']")
+	public WebElement cardsAndAccountsNumberSelectedItem;
+
+	@FindBy(xpath = "//div[@class='account__payment-detail']//p[2]")
+	public WebElement cardNumberForEditOrRemove;
+
 	@FindBy(xpath = "//div[@class='account__payment-detail']//button[text()='Edit']")
 	public WebElement editPayment;
 
 	@FindBy(xpath = "//div[text()='Payment Method updated Successfully']")
 	public WebElement paymentMethodUpdatedSuccessfully;
+
+	@FindBy(xpath = "//div[@class='account__payment']//button[text()='remove']")
+	public WebElement removePayment;
+
+	@FindBy(xpath = "//div[@class='account__payment-sub']")
+	public List<WebElement> cardsAndAccountsItems;
 
 }

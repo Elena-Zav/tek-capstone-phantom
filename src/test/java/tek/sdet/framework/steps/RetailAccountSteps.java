@@ -1,9 +1,12 @@
 package tek.sdet.framework.steps;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 import io.cucumber.datatable.DataTable;
@@ -14,6 +17,8 @@ import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
 public class RetailAccountSteps extends CommonUtility {
+
+	private Map<String, String> sharedDataMap = new HashMap<>();
 
 //	POMFactory factory = POMFactory.getInstance();
 	POMFactory factory = new POMFactory();
@@ -113,7 +118,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("a message should be displayed ‘Payment Method added successfully’")
 	public void aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully() {
-		String expectedMessage = "Payment Method added sucessfully";
+		String expectedMessage = "Payment Method added successfully";
 		waitTillPresence(factory.accountPage().paymentMethodAddedSuccessfully);
 		Assert.assertEquals(expectedMessage, getText(factory.accountPage().paymentMethodAddedSuccessfully));
 		logger.info("The message 'Payment Method added successfully' is displayed");
@@ -152,7 +157,43 @@ public class RetailAccountSteps extends CommonUtility {
 		String expectedMessage = "Payment Method updated Successfully";
 		waitTillPresence(factory.accountPage().paymentMethodUpdatedSuccessfully);
 		Assert.assertEquals(expectedMessage, getText(factory.accountPage().paymentMethodUpdatedSuccessfully));
-		logger.info("The message 'Payment Method added successfully' is displayed");
+		logger.info("The message 'Payment Method updated successfully' is displayed");
+
+	}
+
+	@When("User click on remove option of card section")
+	public void userClickOnRemoveOptionOfCardSection() {
+
+		if (factory.accountPage().cardsAndAccountsItems.size() > 0) {
+
+			click(factory.accountPage().cardsAndAccountsItemOne);
+			Assert.assertTrue(isElementDisplayed(factory.accountPage().cardsAndAccountSelectedItem));
+			Assert.assertTrue(isElementDisplayed(factory.accountPage().removePayment));
+			waitTillClickable(factory.accountPage().removePayment);
+			String removedCardNumber = getText(factory.accountPage().cardsAndAccountsItemOne)
+					.substring(getText(factory.accountPage().cardsAndAccountsItemOne).length() - 4);
+			sharedDataMap.put("removedCardNumber", removedCardNumber);
+			click(factory.accountPage().removePayment);
+			waitTillInvisibile(factory.accountPage().removePayment);
+			logger.info("User clicked on remove link to remove " + sharedDataMap.get("removedCardNumber"));
+
+		} else {
+			Assert.assertTrue(factory.accountPage().cardsAndAccountsItems.size() > 0);
+		}
+
+	}
+
+	@Then("payment details should be removed")
+	public void paymentDetailsShouldBeRemoved() {
+		List<WebElement> removedCard = getDriver()
+				.findElements(By.xpath(String.format("//*[text()='%s']", sharedDataMap.get("removedCardNumber"))));
+
+		if (removedCard.size() == 0) {
+			Assert.assertTrue(true);
+			logger.info("payment card " + (String) sharedDataMap.get("removedCardNumber") + " is removed");
+		} else {
+			Assert.assertTrue(false);
+		}
 
 	}
 

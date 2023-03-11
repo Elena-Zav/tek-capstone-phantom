@@ -893,3 +893,305 @@
 2023-03-09 14:10:03,546 - logger_File -INFO - User filled debit or credit card information
 2023-03-09 14:10:03,878 - logger_File -INFO - user clicked on Add Your card button
 2023-03-09 14:10:04,546 - logger_File -INFO - The message 'Payment Method added successfully' is displayed
+2023-03-09 14:18:05,471 - logger_File -INFO - User is on retail website
+2023-03-09 14:18:06,024 - logger_File -INFO - user clicked on Sign in option
+2023-03-09 14:18:06,483 - logger_File -INFO - user entered email and password
+2023-03-09 14:18:06,861 - logger_File -INFO - user clicked on login button
+2023-03-09 14:18:06,920 - logger_File -INFO - user is logged in into Account
+2023-03-09 14:18:07,351 - logger_File -INFO - User clicked on Account
+2023-03-09 14:18:08,014 - logger_File -INFO - User clicked on Edit option of card section
+2023-03-09 14:18:09,021 - logger_File -INFO - user edit information with new data
+2023-03-09 14:18:09,356 - logger_File -INFO - user clicked on Update Your Card button
+2023-03-09 14:18:09,936 - logger_File -INFO - The message 'Payment Method added successfully' is displayed
+2023-03-09 14:21:30,112 - logger_File -INFO - User is on retail website
+2023-03-09 14:21:30,675 - logger_File -INFO - user clicked on Sign in option
+2023-03-09 14:21:31,037 - logger_File -INFO - user entered email and password
+2023-03-09 14:21:31,389 - logger_File -INFO - user clicked on login button
+2023-03-09 14:21:31,479 - logger_File -INFO - user is logged in into Account
+2023-03-09 14:21:31,913 - logger_File -INFO - User clicked on Account
+2023-03-09 14:21:32,306 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-09 14:21:32,991 - logger_File -INFO - User filled debit or credit card information
+2023-03-09 14:21:33,322 - logger_File -INFO - user clicked on Add Your card button
+2023-03-09 14:22:58,112 - logger_File -INFO - User is on retail website
+2023-03-09 14:22:58,601 - logger_File -INFO - user clicked on Sign in option
+2023-03-09 14:22:58,911 - logger_File -INFO - user entered email and password
+2023-03-09 14:22:59,271 - logger_File -INFO - user clicked on login button
+2023-03-09 14:22:59,418 - logger_File -INFO - user is logged in into Account
+2023-03-09 14:22:59,826 - logger_File -INFO - User clicked on Account
+2023-03-09 14:23:00,105 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-09 14:23:00,724 - logger_File -INFO - User filled debit or credit card information
+2023-03-09 14:23:01,032 - logger_File -INFO - user clicked on Add Your card button
+2023-03-09 14:23:01,631 - logger_File -INFO - The message 'Payment Method added successfully' is displayed
+2023-03-10 12:08:56,784 - logger_File -INFO - User is on retail website
+2023-03-10 12:08:57,312 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 12:08:57,576 - logger_File -INFO - user entered email and password
+2023-03-10 12:08:57,884 - logger_File -INFO - user clicked on login button
+2023-03-10 12:08:57,940 - logger_File -INFO - user is logged in into Account
+2023-03-10 12:08:58,389 - logger_File -INFO - User clicked on Account
+2023-03-10 12:08:58,671 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 12:08:59,747 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 12:09:00,326 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 12:10:45,954 - logger_File -INFO - User is on retail website
+2023-03-10 12:10:46,422 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 12:10:46,671 - logger_File -INFO - user entered email and password
+2023-03-10 12:10:46,980 - logger_File -INFO - user clicked on login button
+2023-03-10 12:10:47,042 - logger_File -INFO - user is logged in into Account
+2023-03-10 12:10:47,454 - logger_File -INFO - User clicked on Account
+2023-03-10 12:10:47,719 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 12:10:48,302 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 12:10:48,579 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 12:20:24,334 - logger_File -INFO - User is on retail website
+2023-03-10 12:20:24,753 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 12:20:25,013 - logger_File -INFO - user entered email and password
+2023-03-10 12:20:25,299 - logger_File -INFO - user clicked on login button
+2023-03-10 12:20:25,356 - logger_File -INFO - user is logged in into Account
+2023-03-10 12:20:25,745 - logger_File -INFO - User clicked on Account
+2023-03-10 12:20:26,104 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 12:20:26,799 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 12:20:27,093 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 12:20:34,166 - logger_File -INFO - User is on retail website
+2023-03-10 12:20:34,553 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 12:20:34,785 - logger_File -INFO - user entered email and password
+2023-03-10 12:20:35,080 - logger_File -INFO - user clicked on login button
+2023-03-10 12:20:35,145 - logger_File -INFO - user is logged in into Account
+2023-03-10 12:20:35,589 - logger_File -INFO - User clicked on Account
+2023-03-10 12:20:36,137 - logger_File -INFO - User clicked on Edit option of card section
+2023-03-10 12:20:36,617 - logger_File -INFO - user edit information with new data
+2023-03-10 12:20:36,925 - logger_File -INFO - user clicked on Update Your Card button
+2023-03-10 12:20:37,491 - logger_File -INFO - The message 'Payment Method updated successfully' is displayed
+2023-03-10 15:47:04,066 - logger_File -INFO - User is on retail website
+2023-03-10 15:47:04,455 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 15:47:04,718 - logger_File -INFO - user entered email and password
+2023-03-10 15:47:05,026 - logger_File -INFO - user clicked on login button
+2023-03-10 15:47:05,465 - logger_File -INFO - user is logged in into Account
+2023-03-10 15:47:05,858 - logger_File -INFO - User clicked on Account
+2023-03-10 15:53:35,260 - logger_File -INFO - User is on retail website
+2023-03-10 15:53:35,762 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 15:53:36,040 - logger_File -INFO - user entered email and password
+2023-03-10 15:53:36,355 - logger_File -INFO - user clicked on login button
+2023-03-10 15:53:36,444 - logger_File -INFO - user is logged in into Account
+2023-03-10 15:53:36,883 - logger_File -INFO - User clicked on Account
+2023-03-10 15:57:37,882 - logger_File -INFO - User is on retail website
+2023-03-10 15:57:38,359 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 15:57:38,599 - logger_File -INFO - user entered email and password
+2023-03-10 15:57:38,927 - logger_File -INFO - user clicked on login button
+2023-03-10 15:57:39,006 - logger_File -INFO - user is logged in into Account
+2023-03-10 15:57:39,399 - logger_File -INFO - User clicked on Account
+2023-03-10 16:05:10,581 - logger_File -INFO - User is on retail website
+2023-03-10 16:05:11,056 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 16:05:11,303 - logger_File -INFO - user entered email and password
+2023-03-10 16:05:11,615 - logger_File -INFO - user clicked on login button
+2023-03-10 16:05:12,048 - logger_File -INFO - user is logged in into Account
+2023-03-10 16:05:12,437 - logger_File -INFO - User clicked on Account
+2023-03-10 16:05:13,135 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0000
+2023-03-10 17:12:20,636 - logger_File -INFO - User is on retail website
+2023-03-10 17:12:21,072 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 17:12:21,319 - logger_File -INFO - user entered email and password
+2023-03-10 17:12:21,643 - logger_File -INFO - user clicked on login button
+2023-03-10 17:12:21,698 - logger_File -INFO - user is logged in into Account
+2023-03-10 17:12:22,103 - logger_File -INFO - User clicked on Account
+2023-03-10 17:12:42,783 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0555
+2023-03-10 17:26:37,265 - logger_File -INFO - User is on retail website
+2023-03-10 17:26:37,763 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 17:26:38,011 - logger_File -INFO - user entered email and password
+2023-03-10 17:26:38,338 - logger_File -INFO - user clicked on login button
+2023-03-10 17:26:38,396 - logger_File -INFO - user is logged in into Account
+2023-03-10 17:26:38,796 - logger_File -INFO - User clicked on Account
+2023-03-10 17:26:59,561 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0444
+2023-03-10 18:13:43,456 - logger_File -INFO - User is on retail website
+2023-03-10 18:13:43,970 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:13:44,216 - logger_File -INFO - user entered email and password
+2023-03-10 18:13:44,560 - logger_File -INFO - user clicked on login button
+2023-03-10 18:13:44,612 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:13:45,056 - logger_File -INFO - User clicked on Account
+2023-03-10 18:13:45,471 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:13:46,125 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:13:46,429 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:13:54,257 - logger_File -INFO - User is on retail website
+2023-03-10 18:13:54,745 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:13:54,994 - logger_File -INFO - user entered email and password
+2023-03-10 18:13:55,322 - logger_File -INFO - user clicked on login button
+2023-03-10 18:13:55,425 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:13:55,856 - logger_File -INFO - User clicked on Account
+2023-03-10 18:14:16,624 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0666
+2023-03-10 18:14:36,637 - logger_File -INFO - payment card null is removed
+2023-03-10 18:24:41,039 - logger_File -INFO - User is on retail website
+2023-03-10 18:24:41,584 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:24:41,840 - logger_File -INFO - user entered email and password
+2023-03-10 18:24:42,174 - logger_File -INFO - user clicked on login button
+2023-03-10 18:24:42,234 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:24:42,634 - logger_File -INFO - User clicked on Account
+2023-03-10 18:24:42,917 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:24:43,502 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:24:43,791 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:24:51,491 - logger_File -INFO - User is on retail website
+2023-03-10 18:24:51,959 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:24:52,218 - logger_File -INFO - user entered email and password
+2023-03-10 18:24:52,527 - logger_File -INFO - user clicked on login button
+2023-03-10 18:24:52,602 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:24:53,026 - logger_File -INFO - User clicked on Account
+2023-03-10 18:25:13,816 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0777
+2023-03-10 18:25:33,829 - logger_File -INFO - payment card null is removed
+2023-03-10 18:30:57,723 - logger_File -INFO - User is on retail website
+2023-03-10 18:30:58,198 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:30:58,459 - logger_File -INFO - user entered email and password
+2023-03-10 18:30:58,784 - logger_File -INFO - user clicked on login button
+2023-03-10 18:30:58,854 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:30:59,277 - logger_File -INFO - User clicked on Account
+2023-03-10 18:30:59,604 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:31:00,169 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:31:00,512 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:31:07,950 - logger_File -INFO - User is on retail website
+2023-03-10 18:31:08,481 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:31:08,726 - logger_File -INFO - user entered email and password
+2023-03-10 18:31:09,044 - logger_File -INFO - user clicked on login button
+2023-03-10 18:31:09,111 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:31:09,510 - logger_File -INFO - User clicked on Account
+2023-03-10 18:31:30,227 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0777
+2023-03-10 18:31:50,246 - logger_File -INFO - payment card null is removed
+2023-03-10 18:34:56,577 - logger_File -INFO - User is on retail website
+2023-03-10 18:34:57,033 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:34:57,311 - logger_File -INFO - user entered email and password
+2023-03-10 18:34:57,658 - logger_File -INFO - user clicked on login button
+2023-03-10 18:34:57,763 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:34:58,160 - logger_File -INFO - User clicked on Account
+2023-03-10 18:34:58,445 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:34:59,040 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:34:59,340 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:35:07,486 - logger_File -INFO - User is on retail website
+2023-03-10 18:35:07,879 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:35:08,243 - logger_File -INFO - user entered email and password
+2023-03-10 18:35:08,616 - logger_File -INFO - user clicked on login button
+2023-03-10 18:35:08,787 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:35:09,294 - logger_File -INFO - User clicked on Account
+2023-03-10 18:35:30,031 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0888
+2023-03-10 18:35:50,050 - logger_File -INFO - payment card null is removed
+2023-03-10 18:43:54,099 - logger_File -INFO - User is on retail website
+2023-03-10 18:43:54,525 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:43:54,749 - logger_File -INFO - user entered email and password
+2023-03-10 18:43:55,057 - logger_File -INFO - user clicked on login button
+2023-03-10 18:43:55,132 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:43:55,518 - logger_File -INFO - User clicked on Account
+2023-03-10 18:43:55,783 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:43:56,330 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:43:56,631 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:44:04,012 - logger_File -INFO - User is on retail website
+2023-03-10 18:44:04,425 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:44:04,633 - logger_File -INFO - user entered email and password
+2023-03-10 18:44:04,920 - logger_File -INFO - user clicked on login button
+2023-03-10 18:44:04,972 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:44:05,353 - logger_File -INFO - User clicked on Account
+2023-03-10 18:44:26,029 - logger_File -INFO - User clicked on remove link to remove Master Card
+Debit Card Ending in .... 0999
+2023-03-10 18:44:46,039 - logger_File -INFO - payment card null is removed
+2023-03-10 18:58:06,729 - logger_File -INFO - User is on retail website
+2023-03-10 18:58:07,136 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:58:07,397 - logger_File -INFO - user entered email and password
+2023-03-10 18:58:07,711 - logger_File -INFO - user clicked on login button
+2023-03-10 18:58:07,792 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:58:08,186 - logger_File -INFO - User clicked on Account
+2023-03-10 18:58:08,460 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 18:58:09,000 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 18:58:09,304 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 18:58:56,642 - logger_File -INFO - User is on retail website
+2023-03-10 18:58:57,155 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 18:58:57,370 - logger_File -INFO - user entered email and password
+2023-03-10 18:58:57,680 - logger_File -INFO - user clicked on login button
+2023-03-10 18:58:57,715 - logger_File -INFO - user is logged in into Account
+2023-03-10 18:58:58,129 - logger_File -INFO - User clicked on Account
+2023-03-10 18:59:18,854 - logger_File -INFO - User clicked on remove link to remove 0111
+2023-03-10 18:59:38,870 - logger_File -INFO - payment card 0111 is removed
+2023-03-10 19:14:38,463 - logger_File -INFO - User is on retail website
+2023-03-10 19:14:38,918 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:14:39,156 - logger_File -INFO - user entered email and password
+2023-03-10 19:14:39,461 - logger_File -INFO - user clicked on login button
+2023-03-10 19:14:39,501 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:14:39,938 - logger_File -INFO - User clicked on Account
+2023-03-10 19:14:40,231 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 19:14:40,834 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 19:14:41,127 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 19:14:48,337 - logger_File -INFO - User is on retail website
+2023-03-10 19:14:48,874 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:14:49,142 - logger_File -INFO - user entered email and password
+2023-03-10 19:14:49,431 - logger_File -INFO - user clicked on login button
+2023-03-10 19:14:49,513 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:14:49,881 - logger_File -INFO - User clicked on Account
+2023-03-10 19:15:10,616 - logger_File -INFO - User clicked on remove link to remove 0111
+2023-03-10 19:22:23,169 - logger_File -INFO - User is on retail website
+2023-03-10 19:22:23,603 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:22:23,862 - logger_File -INFO - user entered email and password
+2023-03-10 19:22:24,161 - logger_File -INFO - user clicked on login button
+2023-03-10 19:22:24,223 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:22:24,651 - logger_File -INFO - User clicked on Account
+2023-03-10 19:22:24,941 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 19:22:25,496 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 19:22:25,768 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 19:22:33,379 - logger_File -INFO - User is on retail website
+2023-03-10 19:22:33,799 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:22:34,068 - logger_File -INFO - user entered email and password
+2023-03-10 19:22:34,369 - logger_File -INFO - user clicked on login button
+2023-03-10 19:22:34,425 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:22:34,817 - logger_File -INFO - User clicked on Account
+2023-03-10 19:22:55,535 - logger_File -INFO - User clicked on remove link to remove 0111
+2023-03-10 19:23:15,552 - logger_File -INFO - payment card 0111 is removed
+2023-03-10 19:31:20,336 - logger_File -INFO - User is on retail website
+2023-03-10 19:31:20,772 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:31:21,041 - logger_File -INFO - user entered email and password
+2023-03-10 19:31:21,352 - logger_File -INFO - user clicked on login button
+2023-03-10 19:31:21,419 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:31:21,827 - logger_File -INFO - User clicked on Account
+2023-03-10 19:31:22,103 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 19:31:22,725 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 19:31:23,014 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 19:31:30,471 - logger_File -INFO - User is on retail website
+2023-03-10 19:31:30,924 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:31:31,150 - logger_File -INFO - user entered email and password
+2023-03-10 19:31:31,435 - logger_File -INFO - user clicked on login button
+2023-03-10 19:31:31,505 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:31:31,903 - logger_File -INFO - User clicked on Account
+2023-03-10 19:31:52,581 - logger_File -INFO - User clicked on remove link to remove 0222
+2023-03-10 19:32:12,589 - logger_File -INFO - payment card 0222 is removed
+2023-03-10 19:37:45,153 - logger_File -INFO - User is on retail website
+2023-03-10 19:37:45,596 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:37:45,859 - logger_File -INFO - user entered email and password
+2023-03-10 19:37:46,155 - logger_File -INFO - user clicked on login button
+2023-03-10 19:37:46,212 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:37:46,589 - logger_File -INFO - User clicked on Account
+2023-03-10 19:51:28,524 - logger_File -INFO - User is on retail website
+2023-03-10 19:51:28,957 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:51:29,185 - logger_File -INFO - user entered email and password
+2023-03-10 19:51:29,467 - logger_File -INFO - user clicked on login button
+2023-03-10 19:51:29,538 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:51:29,935 - logger_File -INFO - User clicked on Account
+2023-03-10 19:51:50,632 - logger_File -INFO - User clicked on remove link to remove 1234
+2023-03-10 19:52:10,652 - logger_File -INFO - payment card 1234 is removed
+2023-03-10 19:57:07,360 - logger_File -INFO - User is on retail website
+2023-03-10 19:57:07,863 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 19:57:08,101 - logger_File -INFO - user entered email and password
+2023-03-10 19:57:08,385 - logger_File -INFO - user clicked on login button
+2023-03-10 19:57:08,424 - logger_File -INFO - user is logged in into Account
+2023-03-10 19:57:08,806 - logger_File -INFO - User clicked on Account
+2023-03-10 20:02:21,225 - logger_File -INFO - User is on retail website
+2023-03-10 20:02:21,669 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 20:02:21,917 - logger_File -INFO - user entered email and password
+2023-03-10 20:02:22,198 - logger_File -INFO - user clicked on login button
+2023-03-10 20:02:22,255 - logger_File -INFO - user is logged in into Account
+2023-03-10 20:02:22,659 - logger_File -INFO - User clicked on Account
+2023-03-10 20:02:22,941 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 20:02:23,511 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 20:02:23,787 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 20:02:31,325 - logger_File -INFO - User is on retail website
+2023-03-10 20:02:31,772 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 20:02:31,979 - logger_File -INFO - user entered email and password
+2023-03-10 20:02:32,255 - logger_File -INFO - user clicked on login button
+2023-03-10 20:02:32,397 - logger_File -INFO - user is logged in into Account
+2023-03-10 20:02:32,784 - logger_File -INFO - User clicked on Account
+2023-03-10 20:02:53,430 - logger_File -INFO - User clicked on remove link to remove 1234
+2023-03-10 20:03:13,441 - logger_File -INFO - payment card 1234 is removed
