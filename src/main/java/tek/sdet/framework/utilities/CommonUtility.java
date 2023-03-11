@@ -42,11 +42,11 @@ public class CommonUtility extends BaseSetup {
 	public WebElement waitTillPresence(By by) {
 		return this.getWait().until(ExpectedConditions.visibilityOfElementLocated(by));
 	}
-	
+
 	public Boolean waitTillInvisibile(WebElement element) {
 		return this.getWait().until(ExpectedConditions.invisibilityOf(element));
 	}
-	
+
 	public Boolean waitTillInvisibile(By by) {
 		return this.getWait().until(ExpectedConditions.invisibilityOfElementLocated(by));
 	}
@@ -88,30 +88,30 @@ public class CommonUtility extends BaseSetup {
 		JavascriptExecutor executor = ((JavascriptExecutor) getDriver());
 		executor.executeScript("arguments[0].value='" + value + "';", ele);
 	}
-	
+
 	public void clearTextUsingJSExecutor(WebElement element) {
-        JavascriptExecutor js = (JavascriptExecutor) getDriver();
-        js.executeScript("arguments[0].value=''", element);
-    }
-	
+		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		js.executeScript("arguments[0].value=''", element);
+	}
+
 	public void clear(WebElement ele) {
 		waitTillPresence(ele).clear();
 	}
-	
+
 	public void clear(By by) {
 		waitTillPresence(by).clear();
 	}
 
 	public void clearTextUsingSendKeys(WebElement toClear) {
 		// this methods don't work (all)
-		
+
 //		toClear.sendKeys(Keys.CONTROL + "a"); // Select all contents, class code
 //		my code	with chord() 	
 		// select all text in the field
 //		toClear.sendKeys(Keys.chord(Keys.CONTROL, "a"));
 		// delete the selected text
 //		toClear.sendKeys(Keys.DELETE);
-		
+
 		toClear.sendKeys(Keys.chord(Keys.CONTROL, "a"), Keys.DELETE); // for mac use CONTROL
 	}
 
@@ -215,7 +215,7 @@ public class CommonUtility extends BaseSetup {
 
 			if (currentWindowTitle.equals(pageTitle)) {
 				break;
-			} 
+			}
 		}
 	}
 
