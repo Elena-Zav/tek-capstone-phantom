@@ -1195,3 +1195,20 @@ Debit Card Ending in .... 0999
 2023-03-10 20:02:32,784 - logger_File -INFO - User clicked on Account
 2023-03-10 20:02:53,430 - logger_File -INFO - User clicked on remove link to remove 1234
 2023-03-10 20:03:13,441 - logger_File -INFO - payment card 1234 is removed
+2023-03-10 20:27:55,672 - logger_File -INFO - User is on retail website
+2023-03-10 20:27:56,196 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 20:27:56,451 - logger_File -INFO - user entered email and password
+2023-03-10 20:27:56,764 - logger_File -INFO - user clicked on login button
+2023-03-10 20:27:56,828 - logger_File -INFO - user is logged in into Account
+2023-03-10 20:27:57,240 - logger_File -INFO - User clicked on Account
+2023-03-10 20:27:57,524 - logger_File -INFO - User clicked on Add a payment method link
+2023-03-10 20:27:58,188 - logger_File -INFO - User filled debit or credit card information
+2023-03-10 20:27:58,468 - logger_File -INFO - user clicked on Add Your card button
+2023-03-10 20:28:06,008 - logger_File -INFO - User is on retail website
+2023-03-10 20:28:06,447 - logger_File -INFO - user clicked on Sign in option
+2023-03-10 20:28:06,693 - logger_File -INFO - user entered email and password
+2023-03-10 20:28:07,004 - logger_File -INFO - user clicked on login button
+2023-03-10 20:28:07,112 - logger_File -INFO - user is logged in into Account
+2023-03-10 20:28:07,514 - logger_File -INFO - User clicked on Account
+2023-03-10 20:28:28,236 - logger_File -INFO - User clicked on remove link to remove 0444
+2023-03-10 20:28:48,253 - logger_File -INFO - payment card 0444 is removed

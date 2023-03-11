@@ -29,7 +29,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard   | expirationMonth | expirationYear | securityCode |
-      | 1111222233330455 | Elena Zavila |               3 |           2026 |          888 |
+      | 1111222233330777 | Elena Zavila |               3 |           2026 |          888 |
     And User click on 'Add Your card' button
     Then a message should be displayed ‘Payment Method added successfully’
 
